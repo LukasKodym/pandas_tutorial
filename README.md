@@ -1,2 +1,2 @@
 # pandas tutorial
-introduction to data science in py - pandas
+introduction to data science in py - pandas 
