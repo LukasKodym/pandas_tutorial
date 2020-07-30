@@ -22,8 +22,8 @@ col_b_c_d = df.loc[:, 'b':'d']
 
 # %% loc
 ##
-row_a = df.loc['a',:]
-row_a_df = df.loc[['a'],:]
+row_a = df.loc['a', :]
+row_a_df = df.loc[['a'], :]
 
 row_a_c = df.loc[['a', 'c'], :]
 
@@ -32,20 +32,3 @@ row_a_c = df.loc[['a', 'c'], :]
 row_a_col_a = df.loc['a', 'a']
 
 row_a_d_col_b_d = df.loc['a':'d', 'b':'d']
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
